@@ -4,7 +4,7 @@
 - 🧠 Historical win rate against past UCL winners
 - 📊 Average xG, possession, goal difference across matches
 - ⚔️ Tactical formations with the highest win %
-- 👥 Star player stats compared to UCL contender benchmarks
+- 👥 And More 
 ## Background
 ### Tools I used
 - **PostgreSQL** — data loading, cleaning, and querying
