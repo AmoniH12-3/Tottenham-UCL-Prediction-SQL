@@ -189,6 +189,12 @@ SELECT
 FROM match_results
 WHERE competition = 'Europa Lg';
 ```
+## Results by competition
+
+![Wins, draws and losses by competition](charts/01-results-by-competition.png)
+
+Premier League 11-5-22 (28.9% win rate) against Europa League 10-3-2 (66.7%).
+The European record is the strongest argument in this dataset.
 
 ### 💡 Insights:
 
