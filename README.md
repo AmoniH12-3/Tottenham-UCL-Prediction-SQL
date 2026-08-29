@@ -1,5 +1,9 @@
 # Can Tottenham Win the 2026 UCL Final?
 I used PostgreSQL and football performance data to evaluate whether Tottenham Hotspur possessed the statistical profile required to compete for the 2026 UEFA Champions League title. The analysis combines match performance, player contributions, tactical formations, and results against previous Champions League winners to identify strengths, weaknesses, and indicators of title competitiveness.
+## Tools: 
+- PostgreSQL | SQL | Excel | pgAdmin
+## Project type: 
+- Sports Analytics | SQL | Football Intelligence
 ## Introduction
 - This project uses SQL to assess whether Tottenham Hotspur can realistically win the UEFA Champions League by analyzing their performance data, player contributions, tactical success, and head-to-head records vs elite European clubs.
 - 🧠 Historical win rate against past UCL winners
