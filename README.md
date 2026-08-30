@@ -343,7 +343,7 @@ LIMIT 10;
 - Match-level data (xG, xGA, possession, pass %, etc.) gives deeper insight into team consistency and quality of play beyond a simple win/loss result.
 - Creating multiple relational tables such as `match_results`, `player_stats`, `tactics`, and `ucl_contenders` helped simulate a scouting-style analytical workflow.
 - Aggregating team performance against past UCL winners was particularly useful for understanding competitiveness at a European level.
-- I reinforced my skills in joining data, conditionally counting using `CASE WHEN`, and calculating percentage-based metrics.
+- I reinforced my skills in conditional counting with `CASE WHEN`, aggregating across groups, and calculating percentage-based metrics.
 - Using `ROUND()`, `SUM()`, and `COUNT()` allowed me to create statistical summaries and performance tables.
 
 ---
